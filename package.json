@@ -1,0 +1,23 @@
+{
+  "name": "tech-news",
+  "version": "1.0.0",
+  "description": "a tech blog for keeping track of news",
+  "main": "index.js",
+  "scripts": {
+    "test": "'test'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NumiBlue/tech-news.git"
+  },
+  "keywords": [
+    "express.js",
+    "mysql2"
+  ],
+  "author": "numiblue",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NumiBlue/tech-news/issues"
+  },
+  "homepage": "https://github.com/NumiBlue/tech-news#readme"
+}
